@@ -1,0 +1,40 @@
+{
+  "appPolicies" : {
+    "eula" : "",
+    "policies" : [
+      {
+        "locale" : "en_US",
+        "policyText" : "",
+        "policyURL" : ""
+      }
+    ]
+  },
+  "identifier" : "STAMP_STOREKIT_CONFIG",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : true,
+      "internalID" : "stamp_pro_unlock_id",
+      "localizations" : [
+        {
+          "description" : "Unlock custom lists, continent statistics and the shareable trophy card. One-time purchase.",
+          "displayName" : "Stamp Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "stamp_pro_unlock",
+      "referenceName" : "Stamp Pro Unlock",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_failTransactionsEnabled" : false,
+    "_storeKitErrors" : []
+  },
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
